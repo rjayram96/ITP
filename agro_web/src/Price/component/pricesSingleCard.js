@@ -1,9 +1,12 @@
 import React, {Component} from 'react'
 
-import './../static/priceCss.css';
+import '../static/priceCardCss.css';
 
 
-const price = props => {
+
+
+const pricesSingleCard = props => {
+
     return(
         <div className= "card text-center shadow">
             <div className="overflow">
@@ -14,13 +17,19 @@ const price = props => {
                 <p className="card-text text-secondary">
                     Basically, JSX is a JavaScript render function that helps you insert your HTML right into your Jav...
                 </p>
-                <a href="#" className="btn btn-outline-success">Go Anyware</a>
+                <button href="#" className="btn btn-outline-success btn1">Market Price</button>
+                <button href="#" className="btn btn-outline-success">Update Price</button>
             </div>
+
         </div>
+
+
     );
-}
+
+
+};
 
 
 
 
-export default price;
+export default pricesSingleCard;

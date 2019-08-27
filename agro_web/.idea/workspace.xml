@@ -2,24 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/component/price.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/agro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/carrot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/firstbackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/front.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/images.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/img/tomato.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/source.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/static/priceCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Price/component/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Price/component/mainPrice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Price/static/fooderCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Price/static/headerCss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dashboard/component/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dashboard/component/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/price.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/static/priceCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/static/priceCardCss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -61,6 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Price/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -100,8 +97,20 @@
       <option name="presentableId" value="Default" />
       <updated>1563120358255</updated>
       <workItem from="1563120360589" duration="3762000" />
-      <workItem from="1566627015455" duration="15715000" />
+      <workItem from="1566627015455" duration="15836000" />
+      <workItem from="1566706744139" duration="7431000" />
+      <workItem from="1566731830999" duration="239000" />
+      <workItem from="1566788778414" duration="3500000" />
+      <workItem from="1566912529387" duration="13047000" />
     </task>
+    <task id="LOCAL-00001" summary="1st Edition With Price card View">
+      <created>1566648869981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566648869981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +125,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st Edition With Price card View" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st Edition With Price card View" />
   </component>
 </project>
