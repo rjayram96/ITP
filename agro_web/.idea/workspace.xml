@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mac.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/component/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/component/mainPrice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/static/fooderCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Price/static/headerCss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dashboard/component/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dashboard/component/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/price.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/static/priceCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/static/priceCardCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +94,8 @@
       <workItem from="1566706744139" duration="7431000" />
       <workItem from="1566731830999" duration="239000" />
       <workItem from="1566788778414" duration="3500000" />
-      <workItem from="1566912529387" duration="13047000" />
+      <workItem from="1566912529387" duration="13678000" />
+      <workItem from="1566964779869" duration="10766000" />
     </task>
     <task id="LOCAL-00001" summary="1st Edition With Price card View">
       <created>1566648869981</created>
@@ -110,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566648869981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st Edition With Price card View with header and footer">
+      <created>1566930065739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566930065739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Edition With Price card View" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Edition With Price card View" />
+    <MESSAGE value="1st Edition With Price card View with header and footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st Edition With Price card View with header and footer" />
   </component>
 </project>

@@ -8,6 +8,8 @@ import mainPrice from './Price/component/mainPrice'
 
 
 
+
+
 function Routes () {
     return (
         <div>
@@ -25,10 +27,13 @@ function Routes () {
                         exact
                         path='/price'
                         component={PricePage}/>
+
                     <Route
                         exact
                         path='/mainPrice'
                         component={mainPrice}/>
+
+
 
 
                 </Switch>
