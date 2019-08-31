@@ -1,20 +1,36 @@
 import React from 'react'
-import {Redirect, Route, Switch, BrowserRouter } from 'react-router-dom'
+import {Redirect, Route, Switch, BrowserRouter,Router,link  } from 'react-router-dom'
+
+import history from './history';
+
 import HomePage from './Dashboard/component/HomePage'
+import ListMarket from './Market/component/ListMarket'
+import MarketPriceTimeGraph from './Market/component/MarketPriceTimeGraph'
 
 function Routes () {
     return (
         <div>
             <BrowserRouter>
                 <Switch>
-
                     <Redirect exact from='/' to='/home'/>
+                    <Router history={history}>
 
-                    <Route
-                        exact
-                        path='/home'
-                        component={HomePage}/>
 
+                        <Route
+                            exact
+                            path='/home'
+                            component={HomePage}/>
+
+                        <Route
+                            exact
+                            path='/market'
+                            component={ListMarket}/>
+
+                        <Route
+                            exact
+                            path='/price'
+                            component={MarketPriceTimeGraph}/>
+                    </Router>
 
                 </Switch>
             </BrowserRouter>
