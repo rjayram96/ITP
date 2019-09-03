@@ -1,7 +1,14 @@
 .newcard{
     background:#f0e9e9 !important;
     border-radius: 10px;
-    margin-top: 20px;
+    height: fit-content;
+    margin-left: 30px;
+    width: 95% !important;
+
+}
+
+.button:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253)!important;
 }
 
 
@@ -31,7 +38,19 @@
 }
 
 .search-container{
-  padding-top:20px;
+    margin-left: 20px;
 }
 
+.createForm{
+    width: 90%;
+    margin-left: 50px;
+}
 
+.wrapper {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.align-middle {
+    position: absolute;
+}

@@ -15,8 +15,8 @@ class Header extends React.Component{
                 <a href="#contact">Farmer Guide</a>
                 <a href="#news">Cost Guide</a>
 
-                    <input type="text" placeholder="Search.." name="search"/>
-                    <button type="submit"><i className="fa fa-search"/></button>
+                <input type="text" placeholder="Search.." name="search"/>
+                <button type="submit"><i className="fa fa-search"/></button>
 
             </div>
 

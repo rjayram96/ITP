@@ -5,9 +5,6 @@ import img2 from './../img/carrot.jpg';
 import img3 from './../img/images.jpeg';
 import Card from './pricesSingleCard';
 
-
-
-
 export default class priceCards extends Component{
 
     render () {

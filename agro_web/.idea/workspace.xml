@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/component/ListMarket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/source.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/static/Market.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/static/img/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/static/img/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/MarketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ram.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Market/component/ListMarketSingleCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agro_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CustomerRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/component/ListMarket.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/component/ListMarket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/source.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/static/Market.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/static/Market.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,10 +48,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../arogya/arogya-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,6 +94,12 @@
       <workItem from="1567012764078" duration="1189000" />
       <workItem from="1567157494197" duration="6094000" />
       <workItem from="1567227937137" duration="591000" />
+      <workItem from="1567250362567" duration="5889000" />
+      <workItem from="1567260087590" duration="9671000" />
+      <workItem from="1567273598765" duration="130000" />
+      <workItem from="1567273769916" duration="4121000" />
+      <workItem from="1567317075326" duration="1189000" />
+      <workItem from="1567339325578" duration="1352000" />
     </task>
     <servers />
   </component>

@@ -1,17 +1,9 @@
 import React from 'react'
 import {Redirect, Route, Switch, BrowserRouter,Router,link  } from 'react-router-dom'
-
 import history from './history';
-
 import HomePage from './Dashboard/component/HomePage'
 import PricePage from './Price/component/priceCards'
 import mainPrice from './Price/component/mainPrice'
-
-
-
-
-
-
 import ListMarket from './Market/component/ListMarket'
 import MarketPriceTimeGraph from './Market/component/MarketPriceTimeGraph'
 
@@ -36,21 +28,20 @@ function Routes () {
 
                         <Route
                             exact
-                            path='/price'
+                            path='/graph'
                             component={MarketPriceTimeGraph}/>
+
+                        <Route
+                            exact
+                            path='/price'
+                            component={PricePage}/>
+
+                        <Route
+                            exact
+                            path='/mainPrice'
+                            component={mainPrice}/>
+
                     </Router>
-                   <Route
-                        exact
-                        path='/price'
-                        component={PricePage}/>
-
-                    <Route
-                        exact
-                        path='/mainPrice'
-                        component={mainPrice}/>
-
-
-
 
                 </Switch>
             </BrowserRouter>

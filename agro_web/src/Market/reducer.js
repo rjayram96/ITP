@@ -1,8 +1,8 @@
 export default function reducer(state = {
-    auditEvents:[],
+    markets:[],
     fetchState: 0,
 
-    auditEventsSearch:{},
+    marketSearch:{},
 
     mutateState: 0,
     lastCreated: [],
@@ -17,7 +17,7 @@ export default function reducer(state = {
             return {...state, fetchState: 1}
         }
         case 'FETCH_AUDIT_EVENTS_FULFILLED': {
-            return {...state, fetchState: 2, auditEvents: action.payload.data.queryAuditEvent}
+            return {...state, fetchState: 2, auditEvents: action.payload.data.queryMarket}
         }
         case 'FETCH_AUDIT_EVENTS_REJECTED': {
             return {...state, fetchState: 3, error: action.payload}
