@@ -1,36 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
+    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="catagary basic">
       <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/component/addProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/component/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/component/categoryCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/agro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/bittermelon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/capsicum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/carrot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/cruciferous.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/firstbackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/front.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/okra.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/onion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/potatoe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/pumpkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/img/tomato.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/source.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/static/add.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/static/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/price.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/price.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,16 +51,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Price/CSS" />
+      <recent name="$PROJECT_DIR$/src/Price/component" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\img" />
       <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category" />
       <recent name="$PROJECT_DIR$/src/Price/img" />
       <recent name="$PROJECT_DIR$/src/Price" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Price/CSS" />
-      <recent name="$PROJECT_DIR$/src/Price/component" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -120,8 +94,16 @@
       <workItem from="1567275666599" duration="8184000" />
       <workItem from="1567301447593" duration="4171000" />
       <workItem from="1567445850514" duration="1058000" />
-      <workItem from="1567526021236" duration="3750000" />
+      <workItem from="1567526021236" duration="4158000" />
     </task>
+    <task id="LOCAL-00001" summary="catagary basic">
+      <created>1567534616065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567534616065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="catagary basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="catagary basic" />
   </component>
 </project>
