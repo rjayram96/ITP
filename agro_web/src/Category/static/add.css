@@ -1,0 +1,22 @@
+.column {
+    float: left;
+    padding: 10px;
+    height: 300px;
+}
+
+.left, .right {
+    width: 20%;
+}
+
+.middle {
+    width: 60%;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+

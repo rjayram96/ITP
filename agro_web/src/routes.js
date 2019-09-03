@@ -2,6 +2,8 @@ import React from 'react'
 import {Redirect, Route, Switch, BrowserRouter } from 'react-router-dom'
 import HomePage from './Dashboard/component/HomePage'
 import PricePage from './Price/component/priceCards'
+import CategoryPage from './Category/component/categoryCard'
+import addProduct from "./Category/component/addProduct";
 
 
 
@@ -22,6 +24,16 @@ function Routes () {
                         exact
                         path='/price'
                         component={PricePage}/>
+
+                   <Route
+                        exact
+                        path='/category'
+                        component={CategoryPage}/>
+
+                    <Route
+                        exact
+                        path='/addProduct'
+                        component={addProduct}/>
 
                 </Switch>
             </BrowserRouter>

@@ -1,11 +1,11 @@
-import React, {Component} from 'react'
+import React from 'react'
 
 import './../static/priceCss.css';
 
 
 const price = props => {
     return(
-        <div className= "card text-center shadow">
+        <div className="card text-center shadow">
             <div className="overflow">
                 <img src={props.imgsrc} alt="Image1" className="card-img-top imagesize"/>
             </div>
