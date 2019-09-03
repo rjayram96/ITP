@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
+    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="catagary basic">
+      <change afterPath="$PROJECT_DIR$/src/Category/component/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/component/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/static/fooderCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/static/headerCss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/component/categoryCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/component/categoryCard.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Price/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Category/static" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -57,14 +57,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Price/CSS" />
-      <recent name="$PROJECT_DIR$/src/Price/component" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\static" />
+      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\component" />
       <recent name="$PROJECT_DIR$/src/Price/img" />
       <recent name="$PROJECT_DIR$/src/Price" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Price/CSS" />
+      <recent name="$PROJECT_DIR$/src/Price/component" />
     </key>
   </component>
   <component name="RunDashboard">

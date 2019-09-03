@@ -8,6 +8,8 @@ import img6 from './../img/okra.jpg';
 import img7 from './../img/pumpkin.jpg';
 import img8 from './../img/potatoe.jpg';
 import img9 from './../img/cruciferous.jpg';
+import Header from './header';
+import Footer from './footer';
 import Category from "./category";
 export class categoryCard extends Component{
 
