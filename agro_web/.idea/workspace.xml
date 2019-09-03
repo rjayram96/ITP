@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="catagary basic">
-      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CategoryRepository.java" afterDir="false" />
+    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/pricesSingleCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -44,7 +49,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Category/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Price/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -56,8 +62,6 @@
       <recent name="$PROJECT_DIR$/src/Price/component" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\img" />
-      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category" />
       <recent name="$PROJECT_DIR$/src/Price/img" />
       <recent name="$PROJECT_DIR$/src/Price" />
       <recent name="$PROJECT_DIR$/src" />
@@ -86,24 +90,28 @@
       <option name="presentableId" value="Default" />
       <updated>1563120358255</updated>
       <workItem from="1563120360589" duration="3762000" />
-      <workItem from="1566627015455" duration="15715000" />
-      <workItem from="1567011274175" duration="3640000" />
-      <workItem from="1567040194767" duration="3976000" />
-      <workItem from="1567122484670" duration="2877000" />
-      <workItem from="1567201018480" duration="2618000" />
-      <workItem from="1567275666599" duration="8184000" />
-      <workItem from="1567301447593" duration="4171000" />
-      <workItem from="1567445850514" duration="1058000" />
-      <workItem from="1567526021236" duration="4158000" />
+      <workItem from="1566627015455" duration="15836000" />
+      <workItem from="1566706744139" duration="7431000" />
+      <workItem from="1566731830999" duration="239000" />
+      <workItem from="1566788778414" duration="3500000" />
+      <workItem from="1566912529387" duration="13678000" />
+      <workItem from="1566964779869" duration="10766000" />
     </task>
-    <task id="LOCAL-00001" summary="catagary basic">
-      <created>1567534616065</created>
+    <task id="LOCAL-00001" summary="1st Edition With Price card View">
+      <created>1566648869981</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1567534616065</updated>
+      <updated>1566648869981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st Edition With Price card View with header and footer">
+      <created>1566930065739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566930065739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +135,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="catagary basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="catagary basic" />
+    <MESSAGE value="1st Edition With Price card View" />
+    <MESSAGE value="1st Edition With Price card View with header and footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st Edition With Price card View with header and footer" />
   </component>
 </project>

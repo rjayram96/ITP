@@ -10,7 +10,7 @@ export class HomePage extends Component{
                         <h3>Hello World</h3>
                     </div>
                     <div className="alert alert-success">
-                      <strong>Success!</strong> Indicates a successful or positive action.
+                        <strong>Success!</strong> Indicates a successful or positive action.
                     </div>
                 </div>
 
