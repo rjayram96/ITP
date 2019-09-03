@@ -6,7 +6,7 @@ class footer extends React.Component{
         return(
             <div className="footer">
 
-            <small>Copyright &copy; Agro Service<br/>2019</small>
+                 <small>Copyright &copy; Agro Service<br/>2019</small>
 
             </div>
 

@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="catagary basic">
-      <change afterPath="$PROJECT_DIR$/src/Category/component/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/component/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/static/fooderCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Category/static/headerCss.css" afterDir="false" />
+    <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/MarketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ram.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Market/component/ListMarketSingleCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agro_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CustomerRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Category/component/categoryCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/component/categoryCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/component/ListMarket.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/component/ListMarket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/source.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market/static/Market.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/static/Market.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,56 +30,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>nav</find>
-      <find>class</find>
-      <find>Top</find>
-      <find>Top-Things</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>className</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/Price</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1PrKvkXPaNlJGZHpEeEnLwPyyW6" />
+  <component name="ProjectId" id="1PMCWoI83zLnLqA1yYzXDTlOU8Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Category/static" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\static" />
-      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\component" />
-      <recent name="$PROJECT_DIR$/src/Price/img" />
-      <recent name="$PROJECT_DIR$/src/Price" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Price/CSS" />
-      <recent name="$PROJECT_DIR$/src/Price/component" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Market/static/img" />
+      <recent name="$PROJECT_DIR$/src/Market/static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Market/component" />
+      <recent name="$PROJECT_DIR$/src/Market" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -92,36 +89,25 @@
       <option name="presentableId" value="Default" />
       <updated>1563120358255</updated>
       <workItem from="1563120360589" duration="3762000" />
-      <workItem from="1566627015455" duration="15836000" />
-      <workItem from="1566706744139" duration="7431000" />
-      <workItem from="1566731830999" duration="239000" />
-      <workItem from="1566788778414" duration="3500000" />
-      <workItem from="1566912529387" duration="13678000" />
-      <workItem from="1566964779869" duration="10766000" />
+      <workItem from="1566822734273" duration="823000" />
+      <workItem from="1566876410598" duration="2387000" />
+      <workItem from="1567012764078" duration="1189000" />
+      <workItem from="1567157494197" duration="6094000" />
+      <workItem from="1567227937137" duration="591000" />
+      <workItem from="1567250362567" duration="5889000" />
+      <workItem from="1567260087590" duration="9671000" />
+      <workItem from="1567273598765" duration="130000" />
+      <workItem from="1567273769916" duration="4121000" />
+      <workItem from="1567317075326" duration="1189000" />
+      <workItem from="1567339325578" duration="1352000" />
     </task>
-    <task id="LOCAL-00001" summary="1st Edition With Price card View">
-      <created>1566648869981</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1566648869981</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1st Edition With Price card View with header and footer">
-      <created>1566930065739</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1566930065739</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.scss" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -135,10 +121,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1st Edition With Price card View" />
-    <MESSAGE value="1st Edition With Price card View with header and footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Edition With Price card View with header and footer" />
   </component>
 </project>
