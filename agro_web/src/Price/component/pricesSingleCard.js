@@ -36,10 +36,8 @@ class pricesSingleCard extends React.Component{
                     <img src={img3} alt="Image1" className="card-img-top imagesize"/>
                 </div>
                 <div className="card-body text-dark">
-                    <h4 className="card-title"> Vegtable</h4>
-                    <p className="card-text text-secondary">
-                        Basically, JSX is a JavaScript render function that helps you insert your HTML right into your Jav...
-                    </p>
+                    <h4 className="card-title"> Vegetable</h4>
+
                     <button href="#" className="btn btn-outline-success btn1" onClick={() => this.openModal()}>Market Price</button>
                     <button href="#" className="btn btn-outline-success">Update Price</button>
 
@@ -60,26 +58,28 @@ class pricesSingleCard extends React.Component{
                                 <MDBTableBody>
                                     <tr>
                                         <td>Wellawaththa</td>
-                                        <td>Mark</td>
-                                        <td>Otto</td>
+                                        <td>45.76</td>
+                                        <td>56.87</td>
 
                                     </tr>
                                     <tr>
                                         <td>Kollupittiya</td>
-                                        <td>Jacob</td>
-                                        <td>Thornton</td>
+                                        <td>56.76</td>
+                                        <td>56.78</td>
 
                                     </tr>
                                     <tr>
                                         <td>Dehiwala</td>
-                                        <td>Larry</td>
-                                        <td>the Bird</td>
+                                        <td>34.67</td>
+                                        <td>65.78</td>
 
                                     </tr>
                                 </MDBTableBody>
                             </MDBTable>
 
-                            <button className="btn btn-outline-success" ><a href="javascript:void(0);" onClick={() => this.closeModal()}>Close</a></button>
+                            <button className="btn btn-outline-success"  href="javascript:void(0);" onClick={() => this.closeModal()}>Close</button>
+                            <button href="#" className="btn btn-outline-success">Update</button>
+
 
                         </div>
                     </Modal>

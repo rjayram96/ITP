@@ -4,8 +4,8 @@ body{
 }
 
 .card{
-    width: 20rem;
-    height: 25rem;
+    width: 12rem !important;
+    height: 20rem !important;
 
     margin-bottom: 25px;
 
@@ -43,4 +43,10 @@ body{
 
 .btn1{
     margin: 4px;
+
+}
+
+.container-fluid{
+    padding-left: 20px !important;
+    padding-right: 10px !important;
 }
