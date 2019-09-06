@@ -16,10 +16,13 @@
 
 package com.agro.service.Repository;
 
+import com.agro.service.Domain.Category.Category;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
 @RepositoryRestResource(collectionResourceRel = "category", path = "categories")
+@CrossOrigin(origins = "http://localhost:3000")
 public interface CategoryRepository extends MongoRepository<Category, String> {
 
 }

@@ -13,7 +13,7 @@ const Category = props => {
             <div className="card-body text-dark">
                 <h4 className="card-title"> {props.title}</h4>
 
-                <a href="#" className="btn btn-outline-success">More details</a>
+                <a href="#" className="btn btn-outline-success ">More details</a>
             </div>
         </div>
     );

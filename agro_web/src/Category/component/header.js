@@ -8,7 +8,7 @@ class Header extends React.Component{
     render() {
         return(
             <div className="navbar">
-               <img src={imglogo} className="logoimg"/>
+               <img src={imglogo} alt="Image2" className="logoimg"/>
                <a href="#home">Home</a>
                 <a href="#news">Categories</a>
                 <a href="#contact">Division</a>

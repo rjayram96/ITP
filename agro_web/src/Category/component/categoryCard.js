@@ -10,8 +10,9 @@ import img8 from './../img/potatoe.jpg';
 import img9 from './../img/cruciferous.jpg';
 import Header from './header';
 import Footer from './footer';
-import Category from "./category";
-export class categoryCard extends Component{
+
+import Category from './categorySingleCard';
+export default class categoryCard extends Component{
 
     render () {
 
@@ -66,4 +67,3 @@ export class categoryCard extends Component{
 
 }
 
-export default categoryCard

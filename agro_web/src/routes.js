@@ -4,10 +4,13 @@ import history from './history';
 import HomePage from './Dashboard/component/HomePage'
 import PricePage from './Price/component/priceCards'
 import CategoryPage from './Category/component/categoryCard'
-import addProduct from "./Category/component/addProduct";
+import addProduct from "./Category/component/addProduct"
 import mainPrice from './Price/component/mainPrice'
 import ListMarket from './Market/component/ListMarket'
 import MarketPriceTimeGraph from './Market/component/MarketPriceTimeGraph'
+import mainCategory from "./Category/component/mainCategory"
+import VegetablePage from "./Category/component/VegetablePage";
+
 
 function Routes () {
     return (
@@ -43,17 +46,32 @@ function Routes () {
                             path='/mainPrice'
                             component={mainPrice}/>
 
+                        <Route
+                            exact
+                            path='/category'
+                            component={CategoryPage}/>
+
+                        <Route
+                            exact
+                            path='/addProduct'
+                            component={addProduct}/>
+
+                        <Route
+                            exact
+                            path='/mainCategory'
+                            component={mainCategory}/>
+
+                        <Route
+                            exact
+                            path='/VegetablePage'
+                            component={VegetablePage}/>
+
+
+
+
                     </Router>
 
-                   <Route
-                        exact
-                        path='/category'
-                        component={CategoryPage}/>
 
-                    <Route
-                        exact
-                        path='/addProduct'
-                        component={addProduct}/>
 
                 </Switch>
             </BrowserRouter>

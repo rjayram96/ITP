@@ -2,25 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d85ed11-17b5-47dd-a95f-45af07fcfd8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/MarketRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ram.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/component/ListMarketSingleCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agro_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/component/VegetableCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/component/VegetablePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/component/addProductCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/component/categorySingleCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Category/component/mainCategory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Domain/Category/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agro_service/src/main/java/com/agro/service/Repository/CategoryRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Market/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/action.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Market/component/ListMarket.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/component/ListMarket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/component/MarketPriceTimeGraph.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Market/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Market/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/source.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Market/static/Market.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market/static/Market.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Price/component/priceCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Price/component/priceCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/component/addProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/component/addProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/component/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/component/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/component/categoryCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/component/categoryCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/component/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/component/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/img/capsicum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/img/capsicum.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/img/cruciferous.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/img/cruciferous.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/img/onion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/img/onion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/static/add.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/static/add.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category/static/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../agro_service" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -61,6 +60,7 @@
       <recent name="$PROJECT_DIR$/src/Market/static" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nithar\Documents\Project\ITP\agro_web\src\Category\img" />
       <recent name="$PROJECT_DIR$/src/Market/component" />
       <recent name="$PROJECT_DIR$/src/Market" />
       <recent name="$PROJECT_DIR$/src" />
@@ -100,6 +100,11 @@
       <workItem from="1567273769916" duration="4121000" />
       <workItem from="1567317075326" duration="1189000" />
       <workItem from="1567339325578" duration="1352000" />
+      <workItem from="1567582335861" duration="7231000" />
+      <workItem from="1567611062116" duration="19610000" />
+      <workItem from="1567691314796" duration="9839000" />
+      <workItem from="1567737206005" duration="6048000" />
+      <workItem from="1567782255956" duration="1130000" />
     </task>
     <servers />
   </component>
