@@ -18,7 +18,7 @@
     "redux-promise-middleware": "5.1.1",
     "redux-thunk": "2.3.0",
     "css-loader": "0.28.11",
-    "underscore": "1.9.0",
+    "underscore": "1.12.1",
     "style-loader": "0.20.3"
   },
   "devDependencies": {
